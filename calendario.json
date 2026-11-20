@@ -197,5 +197,24 @@
    "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p12_2026-12-07_06.jpg"
   ],
   "legenda": "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p12_2026-12-07_legenda.txt"
- }
+ },
+
+ 
+{
+ "post": 13,
+ "data": "2026-11-25",
+ "hora": "11:50",
+ "slug": "C_quem_esta_do_seu_lado",
+ "status": "pendente",
+ "imagens": [
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_01.jpg",
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_02.jpg",
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_03.jpg",
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_04.jpg",
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_05.jpg",
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_06.jpg",
+  "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_07.jpg"
+ ],
+ "legenda": "https://raw.githubusercontent.com/ricardodutra001/dutralevi-conteudo/main/p13_2026-11-25_legenda.txt"
+}
 ]
